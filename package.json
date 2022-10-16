@@ -1,0 +1,19 @@
+{
+  "name": "empty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skibasu/empty-js.git"
+  },
+  "author": "su",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skibasu/empty-js/issues"
+  },
+  "homepage": "https://github.com/skibasu/empty-js#readme"
+}
